@@ -10,7 +10,7 @@
   "license": "Apache",
   "readmeFilename": "README.md",
   "dependencies": {
-    "tv4": "~1.1.x",
+    "tv4": "~1.3.0",
     "chai": "1.9.x"
   },
   "devDependencies": {
